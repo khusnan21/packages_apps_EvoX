@@ -564,4 +564,7 @@
     <string name="time_in_state_title">Time in state</string> 
     <string name="time_in_state_summary">Show CPU frequency statistics</string>
 
+
+    <!-- Advanced Controls -->
+    <string name="advanced_controls_title">Advanced Controls</string>     
 </resources>
